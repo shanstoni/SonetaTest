@@ -3,5 +3,6 @@
   <PropertyGroup>
     <TargetFramework>$(SonetaTestsTargetFramework)</TargetFramework>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AggregateOutput>true</AggregateOutput>
   </PropertyGroup>
 </Project>
