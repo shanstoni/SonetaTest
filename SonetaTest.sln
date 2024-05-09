@@ -3,15 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonetaTest", "SonetaTest\SonetaTest\SonetaTest.csproj", "{A3152089-61E8-4ED5-9113-4F45F303CCF5}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD9495BF-A5D1-490C-AA49-D162C665940B}"
 	ProjectSection(SolutionItems) = preProject
 		Directory.Build.props = Directory.Build.props
 		global.json = global.json
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonetaTest.UI", "SonetaTest\SonetaTest.UI\SonetaTest.UI.csproj", "{64C8C49B-C52A-4DCD-958F-552153400042}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonetaTest.Tests", "SonetaTest\SonetaTest.Tests\SonetaTest.Tests.csproj", "{30FB1000-FF69-421F-9969-4CD0F4177AAF}"
 EndProject
@@ -21,14 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A3152089-61E8-4ED5-9113-4F45F303CCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3152089-61E8-4ED5-9113-4F45F303CCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3152089-61E8-4ED5-9113-4F45F303CCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3152089-61E8-4ED5-9113-4F45F303CCF5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{64C8C49B-C52A-4DCD-958F-552153400042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64C8C49B-C52A-4DCD-958F-552153400042}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64C8C49B-C52A-4DCD-958F-552153400042}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{64C8C49B-C52A-4DCD-958F-552153400042}.Release|Any CPU.Build.0 = Release|Any CPU
 		{30FB1000-FF69-421F-9969-4CD0F4177AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{30FB1000-FF69-421F-9969-4CD0F4177AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30FB1000-FF69-421F-9969-4CD0F4177AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU

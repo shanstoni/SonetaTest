@@ -2,7 +2,6 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SonetaPackageVersion>2404.0.0-beta.127576</SonetaPackageVersion>
-    <SonetaTargetFramework>netstandard2.1</SonetaTargetFramework>
-	<SonetaTestsTargetFramework>net6</SonetaTestsTargetFramework>
+	  <SonetaTestsTargetFramework>net6.0</SonetaTestsTargetFramework>
   </PropertyGroup>
 </Project>
